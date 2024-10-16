@@ -12,23 +12,22 @@ I specialize in:
 
 ## 🛠️ Tech Stack
 - **Programming Languages**: Python (NumPy, Pandas, scikit-learn, TensorFlow), R, SQL, PySpark.
-- **Machine Learning Tools**: TensorFlow, scikit-learn, Azure ML, AWS Redshift, CNNs.
+- **Artificial Intelligence**: Transformer models (BERT, GPT), NLP/NLU, Retrieval-Augmented Generation (RAG), Computer Vision, Deep Learning.
+- **Machine Learning Tools**: TensorFlow, scikit-learn, Azure ML.
 - **Data Tools**: Advanced Excel Analytics, Tableau, Power BI, Google Analytics, and Data Studio.
 - **Project Management**: GitHub, Jira, MS Project, Agile & Scrum methodologies.
 
-## 🌟 Projects & Experience
-- **Predictive Maintenance**: Developed a **CNN-based image classification system** to detect anomalies in machine data. Reduced unexpected downtime by 25%.
-- **Sentiment Analysis**: Built an NLP pipeline to classify incident tickets with 70% accuracy. Improved model performance by 15% through handling unstructured data.
-- **Churn Prediction**: Created **Random Forest models** to predict customer churn behavior with 87% accuracy. Enabled proactive business interventions.
-- **Time Series Forecasting**: Applied ARIMA and LSTM models to forecast **gold export prices**. Demonstrated strong financial analytics skills.
-- **Skin Cancer Detection**: Developed a **custom CNN** for skin cancer classification using TensorFlow. Achieved 80% accuracy in detecting melanoma versus benign lesions.
-- **Hospital Stay Prediction**: Built a machine learning model to predict patient stay durations. Achieved 75% accuracy in classifying stays over 100 days, improving hospital resource planning.
+## 💼 Industry Experience
 
-
+- **Manufacturing Data Science**: Expertise in predictive maintenance, anomaly detection, and process optimization using machine learning models.
+- **Healthcare Data Science**: Worked on healthcare diagnostics and operational models, improving predictive capabilities for patient outcomes and resource management.
+- **Retail Data Science**: Applied machine learning for customer behavior analysis, leading to enhanced customer retention and personalized marketing strategies.
+- **Financial Data Science**: Experience in time series forecasting and financial analytics to predict market trends and pricing.
 
 
 ## 🌱 What I’m Working On
-I’m currently diving deeper into **Transformer-based architectures** for natural language understanding and exploring **MLOps** for seamless deployment of machine learning models.
+I’m currently pushing the boundaries of **Retrieval-Augmented Generation (RAG)** for cutting-edge natural language understanding and exploring the fusion of **MLOps** with advanced **anomaly detection models**. My focus is on creating scalable, automated solutions that seamlessly integrate real-time data processing with robust model deployment pipelines, enabling faster, more accurate predictions across complex datasets.
+
 
 ## 💬 Let's Connect!
 I’m always excited to connect with like-minded professionals, explore collaboration opportunities, and contribute to innovative projects. Feel free to reach out!
