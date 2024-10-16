@@ -17,19 +17,15 @@ I specialize in:
 - **Project Management**: GitHub, Jira, MS Project, Agile & Scrum methodologies.
 
 ## 🌟 Projects & Experience
-- **Predictive Maintenance**: Developed a **CNN-based image classification system** to detect anomalies in machine data, reducing unexpected downtime by 25%.
-- **Sentiment Analysis**: Created an NLP pipeline for ticket classification, achieving 70% accuracy and improving model accuracy by 15% through automation of unstructured data handling.
-- **Churn Prediction**: Built **Random Forest models** predicting customer churn behavior with 87% accuracy, enabling proactive business interventions.
-- **Time Series Forecasting**: Applied ARIMA and LSTM models for forecasting **gold export prices**, demonstrating proficiency in financial analytics.
+- **Predictive Maintenance**: Developed a **CNN-based image classification system** to detect anomalies in machine data. Reduced unexpected downtime by 25%.
+- **Sentiment Analysis**: Built an NLP pipeline to classify incident tickets with 70% accuracy. Improved model performance by 15% through handling unstructured data.
+- **Churn Prediction**: Created **Random Forest models** to predict customer churn behavior with 87% accuracy. Enabled proactive business interventions.
+- **Time Series Forecasting**: Applied ARIMA and LSTM models to forecast **gold export prices**. Demonstrated strong financial analytics skills.
+- **Skin Cancer Detection**: Developed a **custom CNN** for skin cancer classification using TensorFlow. Achieved 80% accuracy in detecting melanoma versus benign lesions.
+- **Hospital Stay Prediction**: Built a machine learning model to predict patient stay durations. Achieved 75% accuracy in classifying stays over 100 days, improving hospital resource planning.
 
-## 📈 Key Achievements
-- Increased asset utilization by 25% at Niagara Bottling by integrating machine learning models.
-- Developed revenue analytics dashboards at Dassault Systèmes, boosting resource utilization by 15% and enhancing client satisfaction.
-- Spearheaded delivery strategies for clients like **Toyota Motors Europe** and **Ford Motors Europe**, resulting in a revenue increase of over $2M.
 
-## 🎓 Education
-- **Master of Science in Information Systems** (Business Analytics) from **California State University, Fullerton** (GPA: 3.97).
-- **Bachelor of Engineering in Mechanical Engineering** from **University of Mumbai** (GPA: 3.6).
+
 
 ## 🌱 What I’m Working On
 I’m currently diving deeper into **Transformer-based architectures** for natural language understanding and exploring **MLOps** for seamless deployment of machine learning models.
