@@ -1,39 +1,33 @@
 # 👋 Hi, I’m Craig Albuquerque
 
-Welcome to my GitHub profile! I’m a **Data Scientist** with a diverse background in **Machine Learning, Statistical Data Analytics, Business Impact Analysis,** and **Project Management**. I’m passionate about turning complex problems into actionable insights through data-driven solutions.
+Welcome! I’m a **Data Scientist** with a focus on **Healthcare Analytics, Machine Learning,** and **Data-Driven Decision Making**. My passion lies in turning complex healthcare challenges into actionable insights.
 
 ## 🔧 What I Do
 I specialize in:
-- **Advanced Machine Learning**: Including Neural Networks, Time Series Forecasting, and Computer Vision.
-- **Statistical Data Analytics**: A/B Testing, Hypothesis Testing, and Model Evaluation.
-- **Data Management & Transformation**: Skilled in building end-to-end data pipelines and orchestrating data flows for clean, reliable datasets.
-- **Artificial Intelligence**: Proficient in NLP/NLU and Transformer models, such as BERT and OpenAI's GPT, for tasks like sentiment analysis and information extraction.
-- **Data Visualization & Storytelling**: I love transforming complex datasets into intuitive visualizations using tools like Tableau, Power BI, and Python visualization libraries.
+- **Healthcare Machine Learning**: Predictive modeling for patient outcomes, diagnostics, and hospital operations.
+- **Statistical Analytics**: Applied A/B Testing, Hypothesis Testing, and Model Evaluation in clinical and operational healthcare contexts.
+- **Data Management**: Building secure, end-to-end pipelines for clean, reliable healthcare data.
+- **NLP & AI**: Applying NLP and Transformer models (BERT, GPT) to healthcare data for patient sentiment analysis and medical record processing.
+- **Data Visualization**: Transforming healthcare data into clear, actionable insights using Tableau, Power BI, and Python.
 
 ## 🛠️ Tech Stack
-- **Programming Languages**: Python (NumPy, Pandas, scikit-learn, TensorFlow), R, SQL, PySpark.
-- **Artificial Intelligence**: Transformer models (BERT, GPT), NLP/NLU, Retrieval-Augmented Generation (RAG), Computer Vision, Deep Learning.
-- **Machine Learning Tools**: TensorFlow, scikit-learn, Azure ML.
-- **Data Tools**: Advanced Excel Analytics, Tableau, Power BI, Google Analytics, and Data Studio.
-- **Project Management**: GitHub, Jira, MS Project, Agile & Scrum methodologies.
+- **Languages**: Python, R, SQL, PySpark.
+- **AI & ML Tools**: TensorFlow, scikit-learn, Azure ML.
+- **Data Tools**: Tableau, Power BI, Advanced Excel.
+- **Project Management**: Agile & Scrum, Jira, GitHub.
 
 ## 💼 Industry Experience
 
-- **Manufacturing Data Science**: Expertise in predictive maintenance, anomaly detection, and process optimization using machine learning models.
-- **Healthcare Data Science**: Worked on healthcare diagnostics and operational models, improving predictive capabilities for patient outcomes and resource management.
-- **Retail Data Science**: Applied machine learning for customer behavior analysis, leading to enhanced customer retention and personalized marketing strategies.
-- **Financial Data Science**: Experience in time series forecasting and financial analytics to predict market trends and pricing.
+- **Healthcare**: Predictive models for patient outcomes and operational efficiency, ensuring compliance with data regulations.
+- **Manufacturing**: Predictive maintenance and anomaly detection for medical device production.
+- **Finance**: Forecasting and cost analysis for healthcare services.
 
-
-## 🌱 What I’m Working On
-I’m currently pushing the boundaries of **Retrieval-Augmented Generation (RAG)** for cutting-edge natural language understanding and exploring the fusion of **MLOps** with advanced **anomaly detection models**. My focus is on creating scalable, automated solutions that seamlessly integrate real-time data processing with robust model deployment pipelines, enabling faster, more accurate predictions across complex datasets.
-
+## 🌱 Current Focus
+I’m enhancing healthcare anomaly detection and developing NLP solutions for medical records while integrating **MLOps** for scalable, real-time predictions.
 
 ## 💬 Let's Connect!
-I’m always excited to connect with like-minded professionals, explore collaboration opportunities, and contribute to innovative projects. Feel free to reach out!
+Reach out for collaboration or to discuss healthcare analytics!
 
 - [LinkedIn](https://www.linkedin.com/in/craigalbuquerque/)
 - [Portfolio](https://bit.ly/craigalbuquerque)
 - [Email](mailto:craigalbuque@gmail.com)
-
-Thanks for visiting my GitHub profile, and let’s create something awesome together! 🚀
