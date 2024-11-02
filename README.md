@@ -19,4 +19,4 @@ I’d love to discuss healthcare analytics and explore collaboration opportuniti
 - [LinkedIn](https://www.linkedin.com/in/craigalbuquerque/)
 - [Email](mailto:craigalbuque@gmail.com)
 
-Projects ⬇️
+⬇️ ⬇️ ⬇️ Projects ⬇️ ⬇️ ⬇️
